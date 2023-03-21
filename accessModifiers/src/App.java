@@ -1,4 +1,20 @@
 public class App {
+
+    /*
+     * PUBLIC
+     * Every class and constructor are "public", all public elements can be accessed
+     * throughout the project.
+     * 
+     * PRIVATE
+     * We only have access to the "private" elements within the class that was
+     * declared.
+     * 
+     * PROTECT
+     * When we do not define the access modifier as private or public, the element
+     * has a modifier of "protected" by default, being possible access only in the
+     * package itself
+     * 
+     */
     public static void main(String[] args) throws Exception {
 
         Client kaique = new Client("Kaique pires", "Rua Sorano, 142");
