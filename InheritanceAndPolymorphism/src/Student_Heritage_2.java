@@ -11,7 +11,7 @@
  * Commented code is code avoided by inheriting from the person class
  */
 
-public class Student_Heritage_2 extends Person_Heritage_1 {
+public class Student_Heritage_2 extends Person_Heritage_1_Polymorphism {
     private String ra;
     // private String name;
     // private int birth_year;
