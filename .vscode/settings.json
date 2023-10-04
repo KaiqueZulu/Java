@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
     "intermediateAndAdvancedLanguageFeatures/javaDocs/src",
-    "intermediateAndAdvancedLanguageFeatures/collections/src"
+    "intermediateAndAdvancedLanguageFeatures/collections/src",
+    "intermediateAndAdvancedLanguageFeatures/executables/src"
   ]
 }

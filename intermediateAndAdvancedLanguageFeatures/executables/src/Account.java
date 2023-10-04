@@ -13,8 +13,8 @@ public class Account {
         this.client = client;
     }
 
-    public float getBalance() {
-        return balance + limit;
+    public String toString() {
+        return "Total balance " + (balance + limit);
     }
 
     void withdrawMoney(float value) {

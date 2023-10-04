@@ -43,7 +43,7 @@ public class App {
     }
 
     public static void consult() {
-        System.out.println("Your balance is " + account.getBalance());
+        System.out.println(account.toString());
 
     }
 
