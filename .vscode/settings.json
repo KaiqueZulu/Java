@@ -1,5 +1,6 @@
 {
-    "java.project.sourcePaths": [
-        "intermediateAndAdvancedLanguageFeatures/javaDocs/src"
-    ]
+  "java.project.sourcePaths": [
+    "intermediateAndAdvancedLanguageFeatures/javaDocs/src",
+    "intermediateAndAdvancedLanguageFeatures/collections/src"
+  ]
 }
